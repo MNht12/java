@@ -1,3 +1,9 @@
 Name: rmit
 Address: VIETNAM
 age: 100
+Name: rmit hanoi
+Address: HaNoi City
+Age: 10
+Name: rmit saigon
+Address: HCM City
+Age: 20
